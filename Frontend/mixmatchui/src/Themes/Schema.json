@@ -1,0 +1,18 @@
+{
+    "default":{
+        "id":"TH_0000",
+        "name":"Default Theme",
+        "color_palette":{
+            "Primary":"#D80E70",
+            "Secondary":"#ddd",
+            "Success":"#4EF037",
+            "Info":"#00BBF0",
+            "Danger":"#FA4659",
+            "Warning":"#f4f133",
+            "Light":"#eee",
+            "Dark":"#353535",
+            "Primary_Font":"rgb(255,255,254)"
+        },
+        "font":"Comfortaa"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "data":{
+        "ucolor_palette":{
+            "--u-blue":"#0d6efd",
+            "--u-indigo":"#6610f2",
+            "--u-purple":"#6f42c1",
+            "--u-pink":"#d63384",
+            "--u-red":"#dc3545",
+            "--u-orange":"#fd7e14",
+            "--u-yellow":"#ffc107",
+            "--u-green":"#198754",
+            "--u-teal":"#20c997",
+            "--u-cyan":"#0dcaf0",
+            "--u-grey":"#6c757d",
+            "--u-dark-grey":"#343a40"
+        }
+    }
+}
